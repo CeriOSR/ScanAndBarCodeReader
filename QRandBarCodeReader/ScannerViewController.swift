@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ScannerViewController.swift
 //  QRandBarCodeReader
 //
 //  Created by Rey Cerio on 2019-11-25.
