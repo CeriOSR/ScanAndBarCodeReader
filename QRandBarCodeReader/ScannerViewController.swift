@@ -51,6 +51,7 @@ class ScannerViewController: UIViewController, AVCaptureMetadataOutputObjectsDel
     func found(code: String) {
         print(code)
         /// Do things with the code here!!!
+        hfitfthhjghtfghffdhgfghggdggfgygg
     }
     
     func failed() {
